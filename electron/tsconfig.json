@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "outDir": "dist",
+    "lib": [
+      "es2018",
+      "dom"
+    ]
+  },
+  "include": [
+    "./**/*"
+  ]
+}
